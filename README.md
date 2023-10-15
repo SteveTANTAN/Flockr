@@ -1,4 +1,17 @@
-# Flockr: COMP1531 Major Project, 20T3
+## Flockr - Online Chat Room | UNSW Back-end Group Development Oct. 2020
+
+• Developed the backend with Python for the realization of administrator authentication, CRUD operations/timed
+sending/pin/like for the message interaction and chatting room authentication.
+
+• Connected all front-end interfaces based on flask HTTP and developed the functions for various components control.
+
+• Implemented Token authentication and key generation via JWTs to reduce the cost of managing user.
+
+• Optimized group chat function using multi-threading to solve delayed/timed sending information to prevent message loss.
+
+• Worked collaboratively through GitLab and tested the project for 97% coverage through pytest and httptest. Launched
+
+the project successfully through Herokuapp within 6 weeks
 
 ## README FIRST
 
@@ -6,26 +19,6 @@ Welcome to our team based major project in course COMP1531, Software Engineering
 
 **Please note that any form of plagiarism or copying of code might cause your institution to judge you as academic misconduct or cheating. All rights reserved by our team, which has been shown below.**
 
-### Todo-List
-
-- Style improvements for testing files.
-- All documents should be renamed, rewritten, and classified.
-- Deployment.
-- Extra features.
-
-### Changelog
-
-- **20 Nov:** README.md updated. Three introduction parts of iterations had been adding into this file, and some extra information had been provided.
-
-### Team 4, Thursday 13 Orange
-
-| Team Members  | E-mail Addresses                 |
-|---------------|----------------------------------|
-| Hao Ren       | hao.ren1@student.unsw.edu.au     |
-| Xingyu Tan    | xingyu.tan@student.unsw.edu.au   |
-| Yuhan Yan     | yuhan.yan1@student.unsw.edu.au   |
-| Liuyuzi He    | liuyuzi.he@student.unsw.edu.au   |
-| Joseph Jeong  | joseph.jeong@student.unsw.edu.au |
 
 ### Iteration 1, 2 and 3
 
